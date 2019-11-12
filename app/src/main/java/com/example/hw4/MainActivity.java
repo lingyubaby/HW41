@@ -7,7 +7,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
 
-    //commit uu
+    /* commit uu */
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
